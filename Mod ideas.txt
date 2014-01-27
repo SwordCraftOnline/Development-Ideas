@@ -18,7 +18,8 @@ hearing, etc like such)
 - tiers for weapons (i.e kirito's sword (black one) tier 8, (blue one) tier 9) - (tier 1 - 15+) (Donator ranks may start 
 with tier 2)
 
--
+- Sword-Craft-Offline (This will be the single player base of the mod which will include much more features which can't be
+on the server (like spawning villages))
 
 -
 
