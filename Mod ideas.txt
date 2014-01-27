@@ -5,21 +5,18 @@ List all the ideas for the mod you have here
 ---------------------------------------------
 
 Leave a description for the mod feature, so that we know how its going to work
+(not in hierarchy)
 
 
-- 
+- Safe zones - where players are safe from other player attacks - no pvp areas (towns, villages, parts in dungeons and 
+boss room)
 
-- 
+- skill trees - a separte hot bar above the default bar for skills (can only equip 6-9 skills (excludes weapons skills))
+(The skills that can be equiped to the hotbar will only be offensive skills and healing skills - no sneak skills or 
+hearing, etc like such)
 
-- 
-
-- 
-
-- 
-
--
-
--
+- tiers for weapons (i.e kirito's sword (black one) tier 8, (blue one) tier 9) - (tier 1 - 15+) (Donator ranks may start 
+with tier 2)
 
 -
 
