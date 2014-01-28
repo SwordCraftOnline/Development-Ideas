@@ -20,8 +20,12 @@ hearing, etc like such)
 - tiers for weapons (i.e kirito's sword (black one) tier 8, (blue one) tier 9) - (tier 1 - 15+) (Donator ranks may start 
 with tier 2)
 
-- Sword-Craft-Offline (This will be the single player base of the mod which will include much more features which can't be
-on the server (like spawning villages))
+- tiers for armour
+
+- items like clothing for passive use (can enhance skills)
+
+- Sword-Craft-Offline (This will be the single player base of the mod which will include much more features which can't 
+be on the server (like spawning villages))
 
 - Orange Players- Killing somebody will give you a orange name tag. After a minute, the color will disapear. Kill again 
 and it will take 2 minutes. After 3 kills, you will be Orange forever, meaning you can't join guilds. Kill 4 times, and 
@@ -29,8 +33,41 @@ you players can warp you to the Black Iron Caslte aka Jail and have a red name f
 
 - Each weapon will have it's own skill upon right click - these skills will have limitations
 
+- Custom partical effects when players and mobs die (The partical glass effect in the anime)
+
+- custom mobs - floor mobs (mobs that are encounted in the wild) (passive - birds, rabbits, bees etc.) (aggressive - 
+boars, wolves, snakes, spiders etc)
+
+- (???)custom title screen (like minecraft lite) - for custom logging out feature (Just to make it look good) - (custom
+help options - (???)-(shaders or something likewise)) - (Screen for map (only shows the areas you've been (disable
+minecraft maps) within a 5 block radius))
+
+- custom hud (Health bar, levels, stats bar, additional hot bar for skills, extended food bar)
+
+- Stats - Paralysis, hunger (just like minecraft just improved), poison, etc.
+
+- custom torches (different textures for them) (skill to produce a light ball)
+
+- Better teleporting (plugins)
+
+- Sounds (like bell chime)
+
+- Give all command (for plugins)
+
+-
+
 -
 
 -
 
 -
+
+-
+
+-
+
+-
+
+-
+
+
